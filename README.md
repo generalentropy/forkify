@@ -81,6 +81,6 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 - The Forkify Recipe API - [recipe-api.com](https://forkify-api.herokuapp.com/v2)
 - The Spoonacular API - [spoonacular.com](https://spoonacular.com/food-api)
-- [Font Awesome](https://fontawesome.com) - Icons
+- Icons - [Font Awesome](https://fontawesome.com)
 
 - Fraction library - [Number2fraction](https://www.npmjs.com/package/number2fraction)
