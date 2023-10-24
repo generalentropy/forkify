@@ -12,6 +12,7 @@ import 'regenerator-runtime/runtime';
 import { async } from 'regenerator-runtime';
 import View from './views/view.js';
 
+//  For Parcel, not required with Vite  -----------
 // if (module.hot) {
 //   module.hot.accept();
 // }
